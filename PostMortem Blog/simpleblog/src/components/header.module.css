@@ -1,0 +1,58 @@
+.container {
+  background: #fff;
+  color: #000;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 42vh;
+}
+.search {
+  padding: 8px;
+  justify-content: space-between;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-right: 150px;
+  width: 200px;
+}
+.h1 {
+  margin: 30px;
+  margin-left: 150px;
+  margin-right: 300px;
+}
+.myhr {
+  border: none;
+  border-top: 1px solid rgba(204, 204, 204, 0.068); /* Use a greyish color for the border */
+  margin: 10px 0;
+}
+.signinbtn,
+.signupbtn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #007bff;
+  display: inline-block;
+  margin: 10px;
+  width: 100px;
+  height: 50px;
+}
+.signupbtn {
+  background-color: #28a745;
+  margin-left: 10px;
+}
+.signinbtn:hover,
+.signupbtn:hover {
+  background-color: #0056b3;
+}
+.lowerdiv {
+  font-size: 38px;
+  display: inline-block;
+  text-align: center;
+  margin-left: 39%;
+}

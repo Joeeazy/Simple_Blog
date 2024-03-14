@@ -1,0 +1,19 @@
+.footerContent {
+  background: linear-gradient(-45deg, #5b548a, #00feba);
+  color: #fff;
+  padding: 0;
+  text-align: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100vh;
+  text-decoration: none;
+}
+.socialicons {
+  margin-top: 10px;
+}
+.socialicons a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 5px;
+  font-size: 20px;
+}
